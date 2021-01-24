@@ -2,7 +2,7 @@
 title: WLED电子钟
 ---
 
-![](preview.png)
+![](./WLED电子钟/preview.png)
 
 ### 引用内容
 1. [3D文件，接线顺序 (YT DIY Machines)](https://www.youtube.com/watch?v=8E0SeycTzHw)
