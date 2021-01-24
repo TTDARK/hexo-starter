@@ -1,5 +1,5 @@
 ---
-title: WLED 电子钟
+title: WLED电子钟
 ---
 
 ![预览图](./wled-clock/preview.png)
